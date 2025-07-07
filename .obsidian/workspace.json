@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5ba943a01a388b2b",
+        "id": "83a2e828f6b8ba76",
         "type": "tabs",
         "children": [
           {
-            "id": "23da4c71525040f5",
+            "id": "2c555f1bd8eefb93",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "libavcodec/bitstream_filter.c.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "bitstream_filter.c"
+              "title": "新标签页"
             }
           }
         ]
@@ -78,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9ee500122dfa497a",
@@ -169,8 +164,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "23da4c71525040f5",
+  "active": "d0d54e966ba382cd",
   "lastOpenFiles": [
+    "libavcodec/bitstream_filter.c.md",
     "libavcodec/aac_parser.c.md",
     "libavcodec/aaccoder_trellis.h.md",
     "libavcodec/aaccoder_twoloop.h.md"
